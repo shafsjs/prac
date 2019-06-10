@@ -1,6 +1,7 @@
 const Sequelize = require('sequelize');
 const sequelize = new Sequelize('dockyard', 'sjs', 'sjs', {
-	dialect: 'mysql'
+	dialect: 'mysql',
+	logging: false,
 });
 
 const Boat = sequelize.define('Boat', {
@@ -25,20 +26,36 @@ const Worker = sequelize.define('Worker', {
 	timestamps: false,
 });
 
-const BoatWorker = sequelize.define('Boat', {}, {
+const BoatWorker = sequelize.define('BoatWorker', {}, {
 	tableName: 'boat_worker',
 	timestamps: false,
 });
 
-Boat.belongsToMany(Worker, {through: 'BoatWorker'});
+Boat.belongsToMany(Worker, {through: BoatWorker, foreignKey: 'boat_id'});
+Worker.belongsToMany(Boat, {through: BoatWorker, foreignKey: 'worker_id'});
 
-const q = async () => {
-	let result = await Boat.findByPk(1);
-	const boat = { ...result.dataValues };
+
+const getBoat = async () => {
+	let result = await Boat.findByPk(2, {include: [{ model: Worker, attributes: ['id', 'name'] }]});
+	const boat = result.dataValues;
+	const workers = boat.Workers.map(worker => {
+		return {
+			'id': worker.dataValues.id,
+			'name': worker.dataValues.name,
+		}
+	});
+	boat.Workers = workers;
 	console.log(boat);
-	result = await Worker.findByPk(1);
-	const worker = { ...result.dataValues };
-	console.log(worker);
+	// result = await Worker.findByPk(1);
+	// const worker = { ...result.dataValues };
+	// console.log(worker);
 }
 
-q();
+const getBoats = async () => {
+	let result = await Boat.findAll();
+	const boats = result.map(boat => boat.dataValues);
+	console.log(boats);
+}
+
+// getBoats();
+getBoat();
