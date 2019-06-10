@@ -1,0 +1,187 @@
+id,country,count,source
+1,Afghanistan,712,WHO
+2,Albania,93,CTS/Transmonee
+3,Algeria,516,CTS
+4,Angola,3426,WHO
+5,Anguilla,1,NSO
+6,Antigua and Barbuda,16,OAS/National police
+7,Argentina,2305,CTS/Ministry of Justice
+8,Armenia,83,CTS/Transmonee
+9,Australia,261,CTS/NSO
+10,Austria,45,CTS/Eurostat
+11,Azerbaijan,192,CTS
+12,Bahamas,72,OAS
+13,Bahrain,6,CTS
+14,Bangladesh,4099,National police
+15,Barbados,23,CTS/OAS
+16,Belarus,541,CTS
+17,Belgium,200,CTS
+18,Belize,103,CTS/OAS
+19,Benin,1262,WHO
+20,Bermuda,5,National police
+21,Bhutan,7,NSO
+22,Bolivia (Plurinational State of),724,National police
+23,Bosnia and Herzegovina,66,CTS/Eurostat
+24,Brazil,43635,Ministry of Justice
+25,Bulgaria,172,CTS/Eurostat
+26,Burkina Faso,2786,WHO
+27,Burundi,1726,WHO
+28,Cameroon,3700,WHO
+29,Canada,611,NSO
+30,Cayman Islands,5,PAHO
+31,Central African Republic,1240,WHO
+32,Chad,1686,WHO
+33,Chile,588,CTS
+34,China,14811,NSO
+35,Colombia,16140,National police
+36,Comoros,85,WHO
+37,Congo,1180,WHO
+38,Costa Rica,512,CTS/Ministry of Justice
+39,Cote d'Ivoire,10801,WHO
+40,Croatia,71,CTS/Eurostat
+41,Cuba,518,PAHO
+42,Cyprus,9,CTS
+43,Czech Republic,202,CTS
+44,Democratic People's Republic of Korea,3658,WHO
+45,Democratic Republic of the Congo,13558,WHO
+46,Denmark,54,CTS
+47,Djibouti,29,WHO
+48,Dominica,7,OAS
+49,Dominican Republic,2394,NGO/SES
+50,Ecuador,2607,OAS/National police
+51,Egypt,793,CTS
+52,El Salvador,3179,National police/OAS
+53,Equatorial Guinea,137,WHO
+54,Eritrea,879,WHO
+55,Estonia,84,CTS/Eurostat
+56,Ethiopia,20239,WHO
+57,Finland,133,CTS
+58,France,839,CTS/Eurostat
+59,French Guiana,32,National police
+60,French Polynesia,9,National police
+61,Gabon,200,WHO
+62,Gambia,176,WHO
+63,Georgia,263,CTS/Transmonee
+64,Germany,722,CTS
+65,Ghana,3646,WHO
+66,Greece,139,CTS/Eurostat
+67,Greenland,6,NSO
+68,Grenada,14,OAS
+69,Guadeloupe,32,National police
+70,Guatemala,6292,CTS/National police
+71,Guinea,2152,WHO
+72,Guinea-Bissau,294,WHO
+73,Guyana,158,OAS/NSO
+74,Haiti,491,UN-PKO
+75,Honduras,4473,OCAVI/National police
+76,Hong Kong Special Administrative Region of China,37,CTS/National police
+77,Hungary,146,CTS
+78,Iceland,0,CTS
+79,India,40938,National police
+80,Indonesia,18963,WHO
+81,Iraq,608,WHO
+82,Ireland,50,CTS/National police
+83,Israel,163,CTS/NSO
+84,Italy,615,CTS
+85,Jamaica,1618,CTS/National police
+86,Japan,646,CTS
+87,Kazakhstan,1680,Transmonee
+88,Kenya,7733,WHO
+89,Kiribati,7,WHO
+90,Kuwait,57,CTS
+91,Kyrgyzstan,417,CTS/Transmonee
+92,Lao People's Democratic Republic,279,WHO
+93,Latvia,99,CTS
+94,Lebanon,252,National police
+95,Lesotho,702,NSO
+96,Liberia,371,WHO
+97,Libyan Arab Jamahiriya,176,WHO
+98,Liechtenstein,1,Eurostat
+99,Lithuania,298,CTS
+100,Luxembourg,12,CTS
+101,Macao Special Administrative Region of China,8,NSO
+102,Madagascar,1588,WHO
+103,Malawi,5039,WHO
+104,Maldives,5,CTS
+105,Mali,1157,WHO
+106,Malta,6,CTS
+107,Martinique,17,National police
+108,Mauritania,485,WHO
+109,Mauritius,48,CTS
+110,Mexico,14006,NSO
+111,Micronesia (Federated States of),1,WHO
+112,Monaco,0,CTS
+113,Mongolia,212,CTS
+114,Montenegro,23,CTS
+115,Montserrat,1,PAHO
+116,Morocco,426,CTS
+117,Myanmar,4800,WHO
+118,Nauru,1,WHO
+119,Nepal,917,NSO
+120,Netherlands,176,Eurostat
+121,New Zealand,52,National police
+122,Nicaragua,736,National police
+123,Niger,552,WHO
+124,Nigeria,18422,WHO
+125,Norway,34,CTS/Eurostat
+126,Oman,18,CTS
+127,Pakistan,12059,NSO
+128,Palau,0,WHO
+129,Panama,654,National police
+130,Papua New Guinea,854,WHO
+131,Paraguay,942,OAS
+132,Peru,3332,CTS
+133,Philippines,5820,CTS
+134,Poland,460,CTS
+135,Portugal,124,CTS/Eurostat
+136,Puerto Rico,807,National police
+137,Qatar,13,CTS
+138,Republic of Korea,1109,National police
+139,Republic of Moldova,236,CTS
+140,Romania,493,Eurostat
+141,Russian Federation,16617,CTS
+142,Rwanda,1708,WHO
+143,Saint Kitts and Nevis,23,OAS/National police
+144,Saint Lucia,39,OAS
+145,Saint Vincent and the Grenadines,27,OAS/NGO
+146,Samoa,2,WHO
+147,Sao Tome and Principe,3,WHO
+148,Senegal,1027,WHO
+149,Serbia,140,CTS/Eurostat
+150,Sierra Leone,837,WHO
+151,Singapore,18,CTS/National police
+152,Slovakia,94,CTS/Transmonee
+153,Slovenia,10,CTS
+154,Solomon Islands,19,CTS
+155,Somalia,138,WHO
+156,South Africa,18148,National police
+157,Spain,426,CTS/Eurostat
+158,Sri Lanka,1488,National police
+159,Sudan,10028,WHO
+160,Suriname,43,OAS
+161,Sweden,82,CTS/Eurostat
+162,Switzerland,54,CTS/Eurostat
+163,Syrian Arab Republic,529,NSO
+164,Tajikistan,118,Transmonee
+165,Thailand,3974,National police
+166,The former Yugoslav Republic of Macedonia,36,CTS/Eurostat
+167,Timor-Leste,75,WHO
+168,Togo,627,WHO
+169,Tonga,1,WHO
+170,Trinidad and Tobago,547,OAS
+171,Tunisia,117,WHO
+172,Turkey,2320,CTS
+173,Turks and Caicos Islands,3,PAHO
+174,Uganda,11373,WHO
+175,Ukraine,2707,Transmonee
+176,United Kingdom of Great Britain and Northern Ireland,780,Eurostat
+177,United Republic of Tanzania,10357,WHO
+178,United States of America,14180,National police
+179,Uruguay,221,Ministry of Interior/SES/OAS
+180,Uzbekistan,831,CTS/Transmonee
+181,Vanuatu,2,WHO
+182,Venezuela (Bolivarian Republic of),14589,NGO
+183,Viet Nam,1346,WHO
+184,Yemen,874,NSO
+185,Zambia,4710,WHO
+186,Zimbabwe,1775,WHO

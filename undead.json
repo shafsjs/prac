@@ -1,0 +1,1680 @@
+{	
+	"countries": [
+	  {
+		"id": 1,
+		"country": "Afghanistan"
+	  },
+	  {
+		"id": 2,
+		"country": "Albania"
+	  },
+	  {
+		"id": 3,
+		"country": "Algeria"
+	  },
+	  {
+		"id": 4,
+		"country": "Angola"
+	  },
+	  {
+		"id": 5,
+		"country": "Anguilla"
+	  },
+	  {
+		"id": 6,
+		"country": "Antigua and Barbuda"
+	  },
+	  {
+		"id": 7,
+		"country": "Argentina"
+	  },
+	  {
+		"id": 8,
+		"country": "Armenia"
+	  },
+	  {
+		"id": 9,
+		"country": "Australia"
+	  },
+	  {
+		"id": 10,
+		"country": "Austria"
+	  },
+	  {
+		"id": 11,
+		"country": "Azerbaijan"
+	  },
+	  {
+		"id": 12,
+		"country": "Bahamas"
+	  },
+	  {
+		"id": 13,
+		"country": "Bahrain"
+	  },
+	  {
+		"id": 14,
+		"country": "Bangladesh"
+	  },
+	  {
+		"id": 15,
+		"country": "Barbados"
+	  },
+	  {
+		"id": 16,
+		"country": "Belarus"
+	  },
+	  {
+		"id": 17,
+		"country": "Belgium"
+	  },
+	  {
+		"id": 18,
+		"country": "Belize"
+	  },
+	  {
+		"id": 19,
+		"country": "Benin"
+	  },
+	  {
+		"id": 20,
+		"country": "Bermuda"
+	  },
+	  {
+		"id": 21,
+		"country": "Bhutan"
+	  },
+	  {
+		"id": 22,
+		"country": "Bolivia (Plurinational State of)"
+	  },
+	  {
+		"id": 23,
+		"country": "Bosnia and Herzegovina"
+	  },
+	  {
+		"id": 24,
+		"country": "Brazil"
+	  },
+	  {
+		"id": 25,
+		"country": "Bulgaria"
+	  },
+	  {
+		"id": 26,
+		"country": "Burkina Faso"
+	  },
+	  {
+		"id": 27,
+		"country": "Burundi"
+	  },
+	  {
+		"id": 28,
+		"country": "Cameroon"
+	  },
+	  {
+		"id": 29,
+		"country": "Canada"
+	  },
+	  {
+		"id": 30,
+		"country": "Cayman Islands"
+	  },
+	  {
+		"id": 31,
+		"country": "Central African Republic"
+	  },
+	  {
+		"id": 32,
+		"country": "Chad"
+	  },
+	  {
+		"id": 33,
+		"country": "Chile"
+	  },
+	  {
+		"id": 34,
+		"country": "China"
+	  },
+	  {
+		"id": 35,
+		"country": "Colombia"
+	  },
+	  {
+		"id": 36,
+		"country": "Comoros"
+	  },
+	  {
+		"id": 37,
+		"country": "Congo"
+	  },
+	  {
+		"id": 38,
+		"country": "Costa Rica"
+	  },
+	  {
+		"id": 39,
+		"country": "Cote d'Ivoire"
+	  },
+	  {
+		"id": 40,
+		"country": "Croatia"
+	  },
+	  {
+		"id": 41,
+		"country": "Cuba"
+	  },
+	  {
+		"id": 42,
+		"country": "Cyprus"
+	  },
+	  {
+		"id": 43,
+		"country": "Czech Republic"
+	  },
+	  {
+		"id": 44,
+		"country": "Democratic People's Republic of Korea"
+	  },
+	  {
+		"id": 45,
+		"country": "Democratic Republic of the Congo"
+	  },
+	  {
+		"id": 46,
+		"country": "Denmark"
+	  },
+	  {
+		"id": 47,
+		"country": "Djibouti"
+	  },
+	  {
+		"id": 48,
+		"country": "Dominica"
+	  },
+	  {
+		"id": 49,
+		"country": "Dominican Republic"
+	  },
+	  {
+		"id": 50,
+		"country": "Ecuador"
+	  },
+	  {
+		"id": 51,
+		"country": "Egypt"
+	  },
+	  {
+		"id": 52,
+		"country": "El Salvador"
+	  },
+	  {
+		"id": 53,
+		"country": "Equatorial Guinea"
+	  },
+	  {
+		"id": 54,
+		"country": "Eritrea"
+	  },
+	  {
+		"id": 55,
+		"country": "Estonia"
+	  },
+	  {
+		"id": 56,
+		"country": "Ethiopia"
+	  },
+	  {
+		"id": 57,
+		"country": "Finland"
+	  },
+	  {
+		"id": 58,
+		"country": "France"
+	  },
+	  {
+		"id": 59,
+		"country": "French Guiana"
+	  },
+	  {
+		"id": 60,
+		"country": "French Polynesia"
+	  },
+	  {
+		"id": 61,
+		"country": "Gabon"
+	  },
+	  {
+		"id": 62,
+		"country": "Gambia"
+	  },
+	  {
+		"id": 63,
+		"country": "Georgia"
+	  },
+	  {
+		"id": 64,
+		"country": "Germany"
+	  },
+	  {
+		"id": 65,
+		"country": "Ghana"
+	  },
+	  {
+		"id": 66,
+		"country": "Greece"
+	  },
+	  {
+		"id": 67,
+		"country": "Greenland"
+	  },
+	  {
+		"id": 68,
+		"country": "Grenada"
+	  },
+	  {
+		"id": 69,
+		"country": "Guadeloupe"
+	  },
+	  {
+		"id": 70,
+		"country": "Guatemala"
+	  },
+	  {
+		"id": 71,
+		"country": "Guinea"
+	  },
+	  {
+		"id": 72,
+		"country": "Guinea-Bissau"
+	  },
+	  {
+		"id": 73,
+		"country": "Guyana"
+	  },
+	  {
+		"id": 74,
+		"country": "Haiti"
+	  },
+	  {
+		"id": 75,
+		"country": "Honduras"
+	  },
+	  {
+		"id": 76,
+		"country": "Hong Kong Special Administrative Region of China"
+	  },
+	  {
+		"id": 77,
+		"country": "Hungary"
+	  },
+	  {
+		"id": 78,
+		"country": "Iceland"
+	  },
+	  {
+		"id": 79,
+		"country": "India"
+	  },
+	  {
+		"id": 80,
+		"country": "Indonesia"
+	  },
+	  {
+		"id": 81,
+		"country": "Iraq"
+	  },
+	  {
+		"id": 82,
+		"country": "Ireland"
+	  },
+	  {
+		"id": 83,
+		"country": "Israel"
+	  },
+	  {
+		"id": 84,
+		"country": "Italy"
+	  },
+	  {
+		"id": 85,
+		"country": "Jamaica"
+	  },
+	  {
+		"id": 86,
+		"country": "Japan"
+	  },
+	  {
+		"id": 87,
+		"country": "Kazakhstan"
+	  },
+	  {
+		"id": 88,
+		"country": "Kenya"
+	  },
+	  {
+		"id": 89,
+		"country": "Kiribati"
+	  },
+	  {
+		"id": 90,
+		"country": "Kuwait"
+	  },
+	  {
+		"id": 91,
+		"country": "Kyrgyzstan"
+	  },
+	  {
+		"id": 92,
+		"country": "Lao People's Democratic Republic"
+	  },
+	  {
+		"id": 93,
+		"country": "Latvia"
+	  },
+	  {
+		"id": 94,
+		"country": "Lebanon"
+	  },
+	  {
+		"id": 95,
+		"country": "Lesotho"
+	  },
+	  {
+		"id": 96,
+		"country": "Liberia"
+	  },
+	  {
+		"id": 97,
+		"country": "Libyan Arab Jamahiriya"
+	  },
+	  {
+		"id": 98,
+		"country": "Liechtenstein"
+	  },
+	  {
+		"id": 99,
+		"country": "Lithuania"
+	  },
+	  {
+		"id": 100,
+		"country": "Luxembourg"
+	  },
+	  {
+		"id": 101,
+		"country": "Macao Special Administrative Region of China"
+	  },
+	  {
+		"id": 102,
+		"country": "Madagascar"
+	  },
+	  {
+		"id": 103,
+		"country": "Malawi"
+	  },
+	  {
+		"id": 104,
+		"country": "Maldives"
+	  },
+	  {
+		"id": 105,
+		"country": "Mali"
+	  },
+	  {
+		"id": 106,
+		"country": "Malta"
+	  },
+	  {
+		"id": 107,
+		"country": "Martinique"
+	  },
+	  {
+		"id": 108,
+		"country": "Mauritania"
+	  },
+	  {
+		"id": 109,
+		"country": "Mauritius"
+	  },
+	  {
+		"id": 110,
+		"country": "Mexico"
+	  },
+	  {
+		"id": 111,
+		"country": "Micronesia (Federated States of)"
+	  },
+	  {
+		"id": 112,
+		"country": "Monaco"
+	  },
+	  {
+		"id": 113,
+		"country": "Mongolia"
+	  },
+	  {
+		"id": 114,
+		"country": "Montenegro"
+	  },
+	  {
+		"id": 115,
+		"country": "Montserrat"
+	  },
+	  {
+		"id": 116,
+		"country": "Morocco"
+	  },
+	  {
+		"id": 117,
+		"country": "Myanmar"
+	  },
+	  {
+		"id": 118,
+		"country": "Nauru"
+	  },
+	  {
+		"id": 119,
+		"country": "Nepal"
+	  },
+	  {
+		"id": 120,
+		"country": "Netherlands"
+	  },
+	  {
+		"id": 121,
+		"country": "New Zealand"
+	  },
+	  {
+		"id": 122,
+		"country": "Nicaragua"
+	  },
+	  {
+		"id": 123,
+		"country": "Niger"
+	  },
+	  {
+		"id": 124,
+		"country": "Nigeria"
+	  },
+	  {
+		"id": 125,
+		"country": "Norway"
+	  },
+	  {
+		"id": 126,
+		"country": "Oman"
+	  },
+	  {
+		"id": 127,
+		"country": "Pakistan"
+	  },
+	  {
+		"id": 128,
+		"country": "Palau"
+	  },
+	  {
+		"id": 129,
+		"country": "Panama"
+	  },
+	  {
+		"id": 130,
+		"country": "Papua New Guinea"
+	  },
+	  {
+		"id": 131,
+		"country": "Paraguay"
+	  },
+	  {
+		"id": 132,
+		"country": "Peru"
+	  },
+	  {
+		"id": 133,
+		"country": "Philippines"
+	  },
+	  {
+		"id": 134,
+		"country": "Poland"
+	  },
+	  {
+		"id": 135,
+		"country": "Portugal"
+	  },
+	  {
+		"id": 136,
+		"country": "Puerto Rico"
+	  },
+	  {
+		"id": 137,
+		"country": "Qatar"
+	  },
+	  {
+		"id": 138,
+		"country": "Republic of Korea"
+	  },
+	  {
+		"id": 139,
+		"country": "Republic of Moldova"
+	  },
+	  {
+		"id": 140,
+		"country": "Romania"
+	  },
+	  {
+		"id": 141,
+		"country": "Russian Federation"
+	  },
+	  {
+		"id": 142,
+		"country": "Rwanda"
+	  },
+	  {
+		"id": 143,
+		"country": "Saint Kitts and Nevis"
+	  },
+	  {
+		"id": 144,
+		"country": "Saint Lucia"
+	  },
+	  {
+		"id": 145,
+		"country": "Saint Vincent and the Grenadines"
+	  },
+	  {
+		"id": 146,
+		"country": "Samoa"
+	  },
+	  {
+		"id": 147,
+		"country": "Sao Tome and Principe"
+	  },
+	  {
+		"id": 148,
+		"country": "Senegal"
+	  },
+	  {
+		"id": 149,
+		"country": "Serbia"
+	  },
+	  {
+		"id": 150,
+		"country": "Sierra Leone"
+	  },
+	  {
+		"id": 151,
+		"country": "Singapore"
+	  },
+	  {
+		"id": 152,
+		"country": "Slovakia"
+	  },
+	  {
+		"id": 153,
+		"country": "Slovenia"
+	  },
+	  {
+		"id": 154,
+		"country": "Solomon Islands"
+	  },
+	  {
+		"id": 155,
+		"country": "Somalia"
+	  },
+	  {
+		"id": 156,
+		"country": "South Africa"
+	  },
+	  {
+		"id": 157,
+		"country": "Spain"
+	  },
+	  {
+		"id": 158,
+		"country": "Sri Lanka"
+	  },
+	  {
+		"id": 159,
+		"country": "Sudan"
+	  },
+	  {
+		"id": 160,
+		"country": "Suriname"
+	  },
+	  {
+		"id": 161,
+		"country": "Sweden"
+	  },
+	  {
+		"id": 162,
+		"country": "Switzerland"
+	  },
+	  {
+		"id": 163,
+		"country": "Syrian Arab Republic"
+	  },
+	  {
+		"id": 164,
+		"country": "Tajikistan"
+	  },
+	  {
+		"id": 165,
+		"country": "Thailand"
+	  },
+	  {
+		"id": 166,
+		"country": "The former Yugoslav Republic of Macedonia"
+	  },
+	  {
+		"id": 167,
+		"country": "Timor-Leste"
+	  },
+	  {
+		"id": 168,
+		"country": "Togo"
+	  },
+	  {
+		"id": 169,
+		"country": "Tonga"
+	  },
+	  {
+		"id": 170,
+		"country": "Trinidad and Tobago"
+	  },
+	  {
+		"id": 171,
+		"country": "Tunisia"
+	  },
+	  {
+		"id": 172,
+		"country": "Turkey"
+	  },
+	  {
+		"id": 173,
+		"country": "Turks and Caicos Islands"
+	  },
+	  {
+		"id": 174,
+		"country": "Uganda"
+	  },
+	  {
+		"id": 175,
+		"country": "Ukraine"
+	  },
+	  {
+		"id": 176,
+		"country": "United Kingdom of Great Britain and Northern Ireland"
+	  },
+	  {
+		"id": 177,
+		"country": "United Republic of Tanzania"
+	  },
+	  {
+		"id": 178,
+		"country": "United States of America"
+	  },
+	  {
+		"id": 179,
+		"country": "Uruguay"
+	  },
+	  {
+		"id": 180,
+		"country": "Uzbekistan"
+	  },
+	  {
+		"id": 181,
+		"country": "Vanuatu"
+	  },
+	  {
+		"id": 182,
+		"country": "Venezuela (Bolivarian Republic of)"
+	  },
+	  {
+		"id": 183,
+		"country": "Viet Nam"
+	  },
+	  {
+		"id": 184,
+		"country": "Yemen"
+	  },
+	  {
+		"id": 185,
+		"country": "Zambia"
+	  },
+	  {
+		"id": 186,
+		"country": "Zimbabwe"
+	  }
+	],
+	"murders": [
+	  {
+		"id": 1,
+		"count": 712,
+		"source": "WHO"
+	  },
+	  {
+		"id": 2,
+		"count": 93,
+		"source": "CTS/Transmonee"
+	  },
+	  {
+		"id": 3,
+		"count": 516,
+		"source": "CTS"
+	  },
+	  {
+		"id": 4,
+		"count": 3426,
+		"source": "WHO"
+	  },
+	  {
+		"id": 5,
+		"count": 1,
+		"source": "NSO"
+	  },
+	  {
+		"id": 6,
+		"count": 16,
+		"source": "OAS/National police"
+	  },
+	  {
+		"id": 7,
+		"count": 2305,
+		"source": "CTS/Ministry of Justice"
+	  },
+	  {
+		"id": 8,
+		"count": 83,
+		"source": "CTS/Transmonee"
+	  },
+	  {
+		"id": 9,
+		"count": 261,
+		"source": "CTS/NSO"
+	  },
+	  {
+		"id": 10,
+		"count": 45,
+		"source": "CTS/Eurostat"
+	  },
+	  {
+		"id": 11,
+		"count": 192,
+		"source": "CTS"
+	  },
+	  {
+		"id": 12,
+		"count": 72,
+		"source": "OAS"
+	  },
+	  {
+		"id": 13,
+		"count": 6,
+		"source": "CTS"
+	  },
+	  {
+		"id": 14,
+		"count": 4099,
+		"source": "National police"
+	  },
+	  {
+		"id": 15,
+		"count": 23,
+		"source": "CTS/OAS"
+	  },
+	  {
+		"id": 16,
+		"count": 541,
+		"source": "CTS"
+	  },
+	  {
+		"id": 17,
+		"count": 200,
+		"source": "CTS"
+	  },
+	  {
+		"id": 18,
+		"count": 103,
+		"source": "CTS/OAS"
+	  },
+	  {
+		"id": 19,
+		"count": 1262,
+		"source": "WHO"
+	  },
+	  {
+		"id": 20,
+		"count": 5,
+		"source": "National police"
+	  },
+	  {
+		"id": 21,
+		"count": 7,
+		"source": "NSO"
+	  },
+	  {
+		"id": 22,
+		"count": 724,
+		"source": "National police"
+	  },
+	  {
+		"id": 23,
+		"count": 66,
+		"source": "CTS/Eurostat"
+	  },
+	  {
+		"id": 24,
+		"count": 43635,
+		"source": "Ministry of Justice"
+	  },
+	  {
+		"id": 25,
+		"count": 172,
+		"source": "CTS/Eurostat"
+	  },
+	  {
+		"id": 26,
+		"count": 2786,
+		"source": "WHO"
+	  },
+	  {
+		"id": 27,
+		"count": 1726,
+		"source": "WHO"
+	  },
+	  {
+		"id": 28,
+		"count": 3700,
+		"source": "WHO"
+	  },
+	  {
+		"id": 29,
+		"count": 611,
+		"source": "NSO"
+	  },
+	  {
+		"id": 30,
+		"count": 5,
+		"source": "PAHO"
+	  },
+	  {
+		"id": 31,
+		"count": 1240,
+		"source": "WHO"
+	  },
+	  {
+		"id": 32,
+		"count": 1686,
+		"source": "WHO"
+	  },
+	  {
+		"id": 33,
+		"count": 588,
+		"source": "CTS"
+	  },
+	  {
+		"id": 34,
+		"count": 14811,
+		"source": "NSO"
+	  },
+	  {
+		"id": 35,
+		"count": 16140,
+		"source": "National police"
+	  },
+	  {
+		"id": 36,
+		"count": 85,
+		"source": "WHO"
+	  },
+	  {
+		"id": 37,
+		"count": 1180,
+		"source": "WHO"
+	  },
+	  {
+		"id": 38,
+		"count": 512,
+		"source": "CTS/Ministry of Justice"
+	  },
+	  {
+		"id": 39,
+		"count": 10801,
+		"source": "WHO"
+	  },
+	  {
+		"id": 40,
+		"count": 71,
+		"source": "CTS/Eurostat"
+	  },
+	  {
+		"id": 41,
+		"count": 518,
+		"source": "PAHO"
+	  },
+	  {
+		"id": 42,
+		"count": 9,
+		"source": "CTS"
+	  },
+	  {
+		"id": 43,
+		"count": 202,
+		"source": "CTS"
+	  },
+	  {
+		"id": 44,
+		"count": 3658,
+		"source": "WHO"
+	  },
+	  {
+		"id": 45,
+		"count": 13558,
+		"source": "WHO"
+	  },
+	  {
+		"id": 46,
+		"count": 54,
+		"source": "CTS"
+	  },
+	  {
+		"id": 47,
+		"count": 29,
+		"source": "WHO"
+	  },
+	  {
+		"id": 48,
+		"count": 7,
+		"source": "OAS"
+	  },
+	  {
+		"id": 49,
+		"count": 2394,
+		"source": "NGO/SES"
+	  },
+	  {
+		"id": 50,
+		"count": 2607,
+		"source": "OAS/National police"
+	  },
+	  {
+		"id": 51,
+		"count": 793,
+		"source": "CTS"
+	  },
+	  {
+		"id": 52,
+		"count": 3179,
+		"source": "National police/OAS"
+	  },
+	  {
+		"id": 53,
+		"count": 137,
+		"source": "WHO"
+	  },
+	  {
+		"id": 54,
+		"count": 879,
+		"source": "WHO"
+	  },
+	  {
+		"id": 55,
+		"count": 84,
+		"source": "CTS/Eurostat"
+	  },
+	  {
+		"id": 56,
+		"count": 20239,
+		"source": "WHO"
+	  },
+	  {
+		"id": 57,
+		"count": 133,
+		"source": "CTS"
+	  },
+	  {
+		"id": 58,
+		"count": 839,
+		"source": "CTS/Eurostat"
+	  },
+	  {
+		"id": 59,
+		"count": 32,
+		"source": "National police"
+	  },
+	  {
+		"id": 60,
+		"count": 9,
+		"source": "National police"
+	  },
+	  {
+		"id": 61,
+		"count": 200,
+		"source": "WHO"
+	  },
+	  {
+		"id": 62,
+		"count": 176,
+		"source": "WHO"
+	  },
+	  {
+		"id": 63,
+		"count": 263,
+		"source": "CTS/Transmonee"
+	  },
+	  {
+		"id": 64,
+		"count": 722,
+		"source": "CTS"
+	  },
+	  {
+		"id": 65,
+		"count": 3646,
+		"source": "WHO"
+	  },
+	  {
+		"id": 66,
+		"count": 139,
+		"source": "CTS/Eurostat"
+	  },
+	  {
+		"id": 67,
+		"count": 6,
+		"source": "NSO"
+	  },
+	  {
+		"id": 68,
+		"count": 14,
+		"source": "OAS"
+	  },
+	  {
+		"id": 69,
+		"count": 32,
+		"source": "National police"
+	  },
+	  {
+		"id": 70,
+		"count": 6292,
+		"source": "CTS/National police"
+	  },
+	  {
+		"id": 71,
+		"count": 2152,
+		"source": "WHO"
+	  },
+	  {
+		"id": 72,
+		"count": 294,
+		"source": "WHO"
+	  },
+	  {
+		"id": 73,
+		"count": 158,
+		"source": "OAS/NSO"
+	  },
+	  {
+		"id": 74,
+		"count": 491,
+		"source": "UN-PKO"
+	  },
+	  {
+		"id": 75,
+		"count": 4473,
+		"source": "OCAVI/National police"
+	  },
+	  {
+		"id": 76,
+		"count": 37,
+		"source": "CTS/National police"
+	  },
+	  {
+		"id": 77,
+		"count": 146,
+		"source": "CTS"
+	  },
+	  {
+		"id": 78,
+		"count": 0,
+		"source": "CTS"
+	  },
+	  {
+		"id": 79,
+		"count": 40938,
+		"source": "National police"
+	  },
+	  {
+		"id": 80,
+		"count": 18963,
+		"source": "WHO"
+	  },
+	  {
+		"id": 81,
+		"count": 608,
+		"source": "WHO"
+	  },
+	  {
+		"id": 82,
+		"count": 50,
+		"source": "CTS/National police"
+	  },
+	  {
+		"id": 83,
+		"count": 163,
+		"source": "CTS/NSO"
+	  },
+	  {
+		"id": 84,
+		"count": 615,
+		"source": "CTS"
+	  },
+	  {
+		"id": 85,
+		"count": 1618,
+		"source": "CTS/National police"
+	  },
+	  {
+		"id": 86,
+		"count": 646,
+		"source": "CTS"
+	  },
+	  {
+		"id": 87,
+		"count": 1680,
+		"source": "Transmonee"
+	  },
+	  {
+		"id": 88,
+		"count": 7733,
+		"source": "WHO"
+	  },
+	  {
+		"id": 89,
+		"count": 7,
+		"source": "WHO"
+	  },
+	  {
+		"id": 90,
+		"count": 57,
+		"source": "CTS"
+	  },
+	  {
+		"id": 91,
+		"count": 417,
+		"source": "CTS/Transmonee"
+	  },
+	  {
+		"id": 92,
+		"count": 279,
+		"source": "WHO"
+	  },
+	  {
+		"id": 93,
+		"count": 99,
+		"source": "CTS"
+	  },
+	  {
+		"id": 94,
+		"count": 252,
+		"source": "National police"
+	  },
+	  {
+		"id": 95,
+		"count": 702,
+		"source": "NSO"
+	  },
+	  {
+		"id": 96,
+		"count": 371,
+		"source": "WHO"
+	  },
+	  {
+		"id": 97,
+		"count": 176,
+		"source": "WHO"
+	  },
+	  {
+		"id": 98,
+		"count": 1,
+		"source": "Eurostat"
+	  },
+	  {
+		"id": 99,
+		"count": 298,
+		"source": "CTS"
+	  },
+	  {
+		"id": 100,
+		"count": 12,
+		"source": "CTS"
+	  },
+	  {
+		"id": 101,
+		"count": 8,
+		"source": "NSO"
+	  },
+	  {
+		"id": 102,
+		"count": 1588,
+		"source": "WHO"
+	  },
+	  {
+		"id": 103,
+		"count": 5039,
+		"source": "WHO"
+	  },
+	  {
+		"id": 104,
+		"count": 5,
+		"source": "CTS"
+	  },
+	  {
+		"id": 105,
+		"count": 1157,
+		"source": "WHO"
+	  },
+	  {
+		"id": 106,
+		"count": 6,
+		"source": "CTS"
+	  },
+	  {
+		"id": 107,
+		"count": 17,
+		"source": "National police"
+	  },
+	  {
+		"id": 108,
+		"count": 485,
+		"source": "WHO"
+	  },
+	  {
+		"id": 109,
+		"count": 48,
+		"source": "CTS"
+	  },
+	  {
+		"id": 110,
+		"count": 14006,
+		"source": "NSO"
+	  },
+	  {
+		"id": 111,
+		"count": 1,
+		"source": "WHO"
+	  },
+	  {
+		"id": 112,
+		"count": 0,
+		"source": "CTS"
+	  },
+	  {
+		"id": 113,
+		"count": 212,
+		"source": "CTS"
+	  },
+	  {
+		"id": 114,
+		"count": 23,
+		"source": "CTS"
+	  },
+	  {
+		"id": 115,
+		"count": 1,
+		"source": "PAHO"
+	  },
+	  {
+		"id": 116,
+		"count": 426,
+		"source": "CTS"
+	  },
+	  {
+		"id": 117,
+		"count": 4800,
+		"source": "WHO"
+	  },
+	  {
+		"id": 118,
+		"count": 1,
+		"source": "WHO"
+	  },
+	  {
+		"id": 119,
+		"count": 917,
+		"source": "NSO"
+	  },
+	  {
+		"id": 120,
+		"count": 176,
+		"source": "Eurostat"
+	  },
+	  {
+		"id": 121,
+		"count": 52,
+		"source": "National police"
+	  },
+	  {
+		"id": 122,
+		"count": 736,
+		"source": "National police"
+	  },
+	  {
+		"id": 123,
+		"count": 552,
+		"source": "WHO"
+	  },
+	  {
+		"id": 124,
+		"count": 18422,
+		"source": "WHO"
+	  },
+	  {
+		"id": 125,
+		"count": 34,
+		"source": "CTS/Eurostat"
+	  },
+	  {
+		"id": 126,
+		"count": 18,
+		"source": "CTS"
+	  },
+	  {
+		"id": 127,
+		"count": 12059,
+		"source": "NSO"
+	  },
+	  {
+		"id": 128,
+		"count": 0,
+		"source": "WHO"
+	  },
+	  {
+		"id": 129,
+		"count": 654,
+		"source": "National police"
+	  },
+	  {
+		"id": 130,
+		"count": 854,
+		"source": "WHO"
+	  },
+	  {
+		"id": 131,
+		"count": 942,
+		"source": "OAS"
+	  },
+	  {
+		"id": 132,
+		"count": 3332,
+		"source": "CTS"
+	  },
+	  {
+		"id": 133,
+		"count": 5820,
+		"source": "CTS"
+	  },
+	  {
+		"id": 134,
+		"count": 460,
+		"source": "CTS"
+	  },
+	  {
+		"id": 135,
+		"count": 124,
+		"source": "CTS/Eurostat"
+	  },
+	  {
+		"id": 136,
+		"count": 807,
+		"source": "National police"
+	  },
+	  {
+		"id": 137,
+		"count": 13,
+		"source": "CTS"
+	  },
+	  {
+		"id": 138,
+		"count": 1109,
+		"source": "National police"
+	  },
+	  {
+		"id": 139,
+		"count": 236,
+		"source": "CTS"
+	  },
+	  {
+		"id": 140,
+		"count": 493,
+		"source": "Eurostat"
+	  },
+	  {
+		"id": 141,
+		"count": 16617,
+		"source": "CTS"
+	  },
+	  {
+		"id": 142,
+		"count": 1708,
+		"source": "WHO"
+	  },
+	  {
+		"id": 143,
+		"count": 23,
+		"source": "OAS/National police"
+	  },
+	  {
+		"id": 144,
+		"count": 39,
+		"source": "OAS"
+	  },
+	  {
+		"id": 145,
+		"count": 27,
+		"source": "OAS/NGO"
+	  },
+	  {
+		"id": 146,
+		"count": 2,
+		"source": "WHO"
+	  },
+	  {
+		"id": 147,
+		"count": 3,
+		"source": "WHO"
+	  },
+	  {
+		"id": 148,
+		"count": 1027,
+		"source": "WHO"
+	  },
+	  {
+		"id": 149,
+		"count": 140,
+		"source": "CTS/Eurostat"
+	  },
+	  {
+		"id": 150,
+		"count": 837,
+		"source": "WHO"
+	  },
+	  {
+		"id": 151,
+		"count": 18,
+		"source": "CTS/National police"
+	  },
+	  {
+		"id": 152,
+		"count": 94,
+		"source": "CTS/Transmonee"
+	  },
+	  {
+		"id": 153,
+		"count": 10,
+		"source": "CTS"
+	  },
+	  {
+		"id": 154,
+		"count": 19,
+		"source": "CTS"
+	  },
+	  {
+		"id": 155,
+		"count": 138,
+		"source": "WHO"
+	  },
+	  {
+		"id": 156,
+		"count": 18148,
+		"source": "National police"
+	  },
+	  {
+		"id": 157,
+		"count": 426,
+		"source": "CTS/Eurostat"
+	  },
+	  {
+		"id": 158,
+		"count": 1488,
+		"source": "National police"
+	  },
+	  {
+		"id": 159,
+		"count": 10028,
+		"source": "WHO"
+	  },
+	  {
+		"id": 160,
+		"count": 43,
+		"source": "OAS"
+	  },
+	  {
+		"id": 161,
+		"count": 82,
+		"source": "CTS/Eurostat"
+	  },
+	  {
+		"id": 162,
+		"count": 54,
+		"source": "CTS/Eurostat"
+	  },
+	  {
+		"id": 163,
+		"count": 529,
+		"source": "NSO"
+	  },
+	  {
+		"id": 164,
+		"count": 118,
+		"source": "Transmonee"
+	  },
+	  {
+		"id": 165,
+		"count": 3974,
+		"source": "National police"
+	  },
+	  {
+		"id": 166,
+		"count": 36,
+		"source": "CTS/Eurostat"
+	  },
+	  {
+		"id": 167,
+		"count": 75,
+		"source": "WHO"
+	  },
+	  {
+		"id": 168,
+		"count": 627,
+		"source": "WHO"
+	  },
+	  {
+		"id": 169,
+		"count": 1,
+		"source": "WHO"
+	  },
+	  {
+		"id": 170,
+		"count": 547,
+		"source": "OAS"
+	  },
+	  {
+		"id": 171,
+		"count": 117,
+		"source": "WHO"
+	  },
+	  {
+		"id": 172,
+		"count": 2320,
+		"source": "CTS"
+	  },
+	  {
+		"id": 173,
+		"count": 3,
+		"source": "PAHO"
+	  },
+	  {
+		"id": 174,
+		"count": 11373,
+		"source": "WHO"
+	  },
+	  {
+		"id": 175,
+		"count": 2707,
+		"source": "Transmonee"
+	  },
+	  {
+		"id": 176,
+		"count": 780,
+		"source": "Eurostat"
+	  },
+	  {
+		"id": 177,
+		"count": 10357,
+		"source": "WHO"
+	  },
+	  {
+		"id": 178,
+		"count": 14180,
+		"source": "National police"
+	  },
+	  {
+		"id": 179,
+		"count": 221,
+		"source": "Ministry of Interior/SES/OAS"
+	  },
+	  {
+		"id": 180,
+		"count": 831,
+		"source": "CTS/Transmonee"
+	  },
+	  {
+		"id": 181,
+		"count": 2,
+		"source": "WHO"
+	  },
+	  {
+		"id": 182,
+		"count": 14589,
+		"source": "NGO"
+	  },
+	  {
+		"id": 183,
+		"count": 1346,
+		"source": "WHO"
+	  },
+	  {
+		"id": 184,
+		"count": 874,
+		"source": "NSO"
+	  },
+	  {
+		"id": 185,
+		"count": 4710,
+		"source": "WHO"
+	  },
+	  {
+		"id": 186,
+		"count": 1775,
+		"source": "WHO"
+	  }
+	]
+}
